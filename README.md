@@ -6,6 +6,7 @@ features:
 1- Showing the free spots for the drivers before entering the garage.
 
 2- Automated door:
+  
     A) When cars approach the door from outside, the door opens only if there is at
        least one free spot.
     
